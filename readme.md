@@ -7,7 +7,7 @@ This is processor for the [file](ttps://github.com/matter-in-motion/mm-file) ext
 
 ## Usage
 
-[Extensions installation instructions](https://github.com/matter-in-motion/mm/blob/master/docs/extensions.md). It validates file type **before** downloading file.
+[Extensions installation instructions](https://github.com/matter-in-motion/mm/blob/master/docs/extensions.md).
 
 ## Methods
 
