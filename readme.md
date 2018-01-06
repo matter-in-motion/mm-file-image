@@ -1,4 +1,4 @@
-# Matter In Motion. Image processor for file etension
+# Matter In Motion. Image processor for file extension
 
 [![NPM Version](https://img.shields.io/npm/v/mm-file-image.svg?style=flat-square)](https://www.npmjs.com/package/mm-file-image)
 [![NPM Downloads](https://img.shields.io/npm/dt/mm-file-image.svg?style=flat-square)](https://www.npmjs.com/package/mm-file-image)
