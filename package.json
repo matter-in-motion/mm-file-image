@@ -1,0 +1,42 @@
+{
+  "name": "mm-file-image",
+  "version": "1.0.0",
+  "description": "Image processor extension for Matter in Motion",
+  "keywords": [
+    "matter",
+    "in",
+    "motion",
+    "mm",
+    "extension",
+    "file",
+    "processing",
+    "thumb",
+    "thumbnail",
+    "resize",
+    "images",
+    "image",
+    "gif",
+    "jpeg",
+    "png",
+    "sharp"
+  ],
+  "author": "Alexey Novikov <v@2dubs.com> (http://2dubs.com)",
+  "license": "MIT",
+  "dependencies": {
+    "fsu": "^1.0.4",
+    "sharp": "^0.18.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:matter-in-motion/mm-file-image.git"
+  },
+  "main": "./index",
+  "devDependencies": {
+    "ava": "^0.24.0",
+    "del": "^3.0.0",
+    "nyc": "^11.4.1"
+  },
+  "scripts": {
+    "test": "nyc ava"
+  }
+}
