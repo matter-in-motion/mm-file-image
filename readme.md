@@ -12,7 +12,8 @@ This is processor for the [file](ttps://github.com/matter-in-motion/mm-file) ext
 ## Methods
 
 ### resize
-* **name** — added to the file name in result
+* **name** — can be added to the file name in result
+* **to** — filepath to save to. (More info)[https://github.com/matter-in-motion/mm-file]
 * **width** — number
 * **height** — number
 * **mask** — path to mask file, relative to media path
