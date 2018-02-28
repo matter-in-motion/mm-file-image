@@ -37,7 +37,7 @@ This is processor for the [file](ttps://github.com/matter-in-motion/mm-file) ext
 The image processor can accept an array of values. It will find the closest width/height ratio for the provided image.
 
 ## GIF
-If you need to write to gif format you need to install [gifsicle](http://www.lcdf.org/gifsicle/)
+If you need to write gif format you have to install [gifsicle](http://www.lcdf.org/gifsicle/)
 
 License MIT
 
