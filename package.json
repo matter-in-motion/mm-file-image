@@ -23,7 +23,7 @@
   "author": "Alexey Novikov <v@2dubs.com> (http://2dubs.com)",
   "license": "MIT",
   "dependencies": {
-    "fsu": "^2.0.0",
+    "fsu": "^1.0.0",
     "sharp": "^0.23.0"
   },
   "repository": {
